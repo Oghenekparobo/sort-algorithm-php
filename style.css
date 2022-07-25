@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: green;
+    font-size: 2rem;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    font-size: 2rem;
+}
+
+.radio{
+    font-size: 2rem;
+}
+
+.al{
+    text-align: center;
+    color: red;
+    font-size: 3rem;
+}
